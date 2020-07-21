@@ -16,6 +16,7 @@ public class PracticeGitApplication {
 
         System.out.println("branch MASTER2");
         System.out.println("baba");
+        System.out.println("2");
     }
 
 
